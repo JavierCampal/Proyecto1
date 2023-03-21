@@ -1,0 +1,6 @@
+com\javier\examenacdatt2\HibernateUtils.class
+dao\BlogDAO.class
+com\javier\examenacdatt2\ExamenACDATT2.class
+models\Entrada.class
+dao\BlogDAOHib.class
+models\Comentario.class
